@@ -14,4 +14,4 @@ cd tu-repo
 npm install
 
 # Ejecuta nodo con la IP privada del coordinador
-nohup node scripts/node-app.js --coordinator=http://172.31.xx.xx:3000 > out.log 2>&1 &
+nohup node scripts/node-app.js --coordinator=http://172.31.83.142:3000 > out.log 2>&1 &

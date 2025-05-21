@@ -15,7 +15,7 @@ npm install
 
 # Crea .env con IPs de nodos
 echo '
-export NODE_IPS=("172.31.x.x" "172.31.y.y" "172.31.z.z")
+export NODE_IPS=("172.31.90.247" "172.31.93.61" "172.31.83.61")
 ' > .env
 
 # Ejecuta coordinador
