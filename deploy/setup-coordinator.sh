@@ -8,7 +8,7 @@ sudo apt install -y nodejs
 
 # Clona el repo y entra al proyecto
 git clone https://github.com/VALENTINAVASQUEZD/sistemasOperativosPF
-cd tu-repo
+cd sistemasOperativosPF
 
 # Instala dependencias
 npm install
