@@ -7,10 +7,10 @@ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt install -y nodejs
 
 # Clona el repo y entra al proyecto
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/VALENTINAVASQUEZD/sistemasOperativosPF
 cd tu-repo
 
-# Instala dependencias
+# Instala dependenciass
 npm install
 
 # Ejecuta nodo con la IP privada del coordinador
